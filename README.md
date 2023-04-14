@@ -1,6 +1,5 @@
 # React Joke Generator
 
-[View Sample](https://ljkbro.csb.app/)
 [View my app](https://jimmys-joke-generator.netlify.app)
 
 ## Topics
